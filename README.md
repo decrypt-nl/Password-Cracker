@@ -1,7 +1,7 @@
 # Password-Cracker
 It's a simple password cracker in python for sha1 hash type / it's written for French peoples
 
-Password cracker by Decrypt.sh
+> Password cracker by Decrypt.sh
 
 
 
